@@ -1,0 +1,26 @@
+body{
+    padding: 20px;
+}
+
+.exemple{
+    width: 100%;
+}
+
+.exemple tr{
+    vertical-align: top;
+}
+
+.exemple td{
+    padding: 20px;
+}
+
+.exemple pre{
+    border-left: 5px solid #005282;
+    background: #f4f4f4;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.badge-primary{
+    background: #007bff;
+}
